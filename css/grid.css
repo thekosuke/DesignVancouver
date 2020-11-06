@@ -1,0 +1,11 @@
+.grid-1, .grid-2, .grid-3, .grid-4 {
+	display: grid;
+	/* width: 100%; */
+	/* margin: 0 auto; */
+	grid-gap: 1em;
+
+	-webkit-transition: .3s ease;
+	-moz-transition: .3s ease;
+	-o-transition: .3s ease;
+	transition: .3s ease;
+}
