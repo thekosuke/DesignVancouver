@@ -193,7 +193,7 @@ input[type="radio"] {
       color: #F5F5F5;
     }
 
-    .post-card:hover .post-categories a { 
+    .post-card:hover .post-categories p { 
       color: #F5F5F5;
     }
 

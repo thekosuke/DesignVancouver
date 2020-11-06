@@ -107,9 +107,9 @@
 		/* border: 1px solid #8F95B2; */
 	  }
 
-	  .post-categories a {
+	  .post-categories p {
 		font-size: 12px;
-		letter-spacing: .4px;
+		letter-spacing: .2px;
 		padding: 0.4rem 0.6rem;	
 		line-height: normal;
 		transition: all 0.1s;
