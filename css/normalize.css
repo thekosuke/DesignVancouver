@@ -66,7 +66,7 @@
 	////////////////////////////////////////////////////////////////*/
 	.filters {		
 		text-align: left;
-		margin: 2em 0;		
+		margin-bottom: 2em;		
 		padding: 1em;
 	}
 
@@ -93,21 +93,12 @@
 		height: 16em;
 		border: solid 2px #021426;
 		border-radius: 1em;
-		/* box-shadow: 0px 12px 24px rgba(22, 22, 26, 0.05); */
 		background-size: 60%;		
-	  }
-	
-	.post-caption {
-		margin-top: 1em;
 	}
 	
-	.post-title { 
-		font-size: 1.2rem; 
-	}
-
-	.post-categories {
-		margin-top: 2em;
-	  }
+	.post-caption { margin-top: 1em; }
+	.post-title { font-size: 1.2rem; }
+	.post-categories { margin-top: 2em; }
 
 	  .post-categories li {
 		margin-bottom: .5em;
@@ -157,17 +148,27 @@
 	}
 }
 
-@media all and (min-width: 375px) {
+@media all and (min-width: 375px) {	
 	.company-logo {
 		height: 18em;
 	}
 }
 
-@media all and (min-width: 411px) {
-	.grid-3 { grid-template-columns: repeat(2, 1fr); }
-
+@media all and (min-width: 414px) {	
 	.company-logo {
-		height: 16em;
+		height: 20em;
+	}
+}
+
+@media all and (min-width: 540px) {
+	.grid-3 { grid-template-columns: repeat(2, 1fr); }
+	#catalog { margin-top: 4em; }
+	.company-logo { height: 12em; }
+	.introcopy p, .filters { text-align: center; }
+
+	.filters li {
+		display: inline;			
+		margin-right: 2em;
 	}
 }
 
@@ -195,43 +196,20 @@
 	/*//////////////////////////////////////////////////////
 	  LANDING
 	//////////////////////////////////////////////////////*/
-	#intro { 			
-			margin: 10em 0; 			
-		}
-
-		.introcopy {
-			max-width: 60%;
-		}
-
-		.introcopy p {
-			max-width: 100%;
-			font-size: 3em;
-			text-align: center;
-		}
+	#intro { margin: 10em 0; }
+		.introcopy { max-width: 100%; }
+		.introcopy p { font-size: 2.5em; }
 
 	.catalog-container {
 			position: relative;		
 		}
 
-		.filters {
-			text-align: center;
-		}
-
-		.filters li {
-			display: inline;			
-			margin-right: 2em;
-		}
-
-		/* 
-		.post-wrapper {
-			overflow-y: scroll;
-		} */
-
 	.post-wrapper .post-card {
-		padding: 2em;			
+		padding: 1em;			
 		border-radius: 1.25em;
-		/* box-shadow: ; */
 	}
+
+	.company-logo { border-radius: 1.5em; }
 
 	/*//////////////////////////////////////////////////////
 	  SUBBANNER
@@ -248,15 +226,27 @@
 }
 
 @media all and (min-width: 1024px) {
+	.introcopy { max-width: 70%; }
+	.company-logo { height: 16em; }
+}
+
+@media all and (min-width: 1280px) {
 	.grid-3 {
 		grid-template-columns: repeat(4, 1fr);
-	}	
+	}		
+
+	.introcopy p { font-size: 3em; }
+
+	.post-wrapper .post-card {
+		padding: 2em;			
+		border-radius: 1.5em;
+	}
+
+	.company-logo { height: 14em; }
 }
 
-@media all and (min-width: 1280px) {	
-}
-
-@media all and (min-width: 1440px) {	
+@media all and (min-width: 1440px) {
+	.company-logo { height: 16em; }	
 }
 
 @media all and (min-width: 1680px) {
