@@ -341,7 +341,7 @@ a:nth-child(7) {
 .company-logo.asana {       background-image: url("../img/logos/product/asana.svg"); background-size: 40%; }
 .company-logo.assembly {    background-image: url("../img/logos/agency/assembly.png"); background-size: 50%; }
 .company-logo.axiom {       background-image: url("../img/logos/agency/axiom.png"); }
-.company-logo.battlefy {    background-image: url("../img/logos/product/battlefy.png"); background-color: #EB2B44; }
+.company-logo.battlefy {    background-image: url("../img/logos/product/battlefy.png"); background-size: 50%; background-color: #EB2B44; }
 .company-logo.bench {       background-image: url("../img/logos/product/bench.svg"); background-size: 80%; }
 .company-logo.brainstation {    background-image: url("../img/logos/product/brainstation.svg"); background-size: 70%; }
 .company-logo.burnkit {     background-image: url("../img/logos/agency/burnkit.svg"); }
