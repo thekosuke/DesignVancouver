@@ -11,11 +11,11 @@
 	/*//////////////////////////////////////////////////////
 	  MENU
 	//////////////////////////////////////////////////////*/			
-	.menu-item-wrapper { margin-top: 8em; }
-	.menu-item-wrapper.active { margin-top: 10m; }
+	.menu-item-wrapper { margin-top: 6em; }
+	.menu-item-wrapper.active { margin-top: 8em; }
 	.menu-item-wrapper a { 
-		font-size: 2em; 
-		line-height: 1.5em;
+		/* font-size: 2em;  */
+		line-height: 2em;
 	}
 
 	#menubar {
@@ -173,14 +173,14 @@
 		font-size: 1.1em;
 	}
 
-	.menu-item-wrapper div {
+	/* .menu-item-wrapper div {
 		padding: .5em;
 	}
 
 	.menu-item-wrapper a { 
 		font-size: 3em; 
 		letter-spacing: 0;
-	}
+	} */
 
 	/*//////////////////////////////////////////////////////
 	  LANDING
