@@ -401,6 +401,7 @@ a:nth-child(7) {
 .company-logo.skyrocket {   background-image: url("../img/logos/agency/skyrocket.jpeg"); background-size: 50%; background-color: #B81C39; }
 .company-logo.slack {       background-image: url("../img/logos/product/slack.svg"); }
 .company-logo.spatial {     background-image: url("../img/logos/agency/spatial.png"); }
+.company-logo.softvision {  background-image: url("../img/logos/agency/softvision.svg"); background-size: 70%; }
 .company-logo.studiothink { background-image: url("../img/logos/agency/studiothink.png"); background-size: 70%; }
 .company-logo.subplot {     background-image: url("../img/logos/agency/subplot.svg"); background-color: #FF0087;}
 .company-logo.taxi {        background-image: url("../img/logos/agency/taxi.png"); }
