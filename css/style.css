@@ -331,20 +331,29 @@ a:nth-child(7) {
 .company-logo.alchemy {
   background-image: url("../img/logos/agency/alchemy.svg"); 
 }
-
+.company-logo.alida {  background-image: url("../img/logos/product/alida.svg"); background-color: #000; }
 .company-logo.allpurpose {  background-image: url("../img/logos/agency/allpurpose.svg"); }
 .company-logo.alphaio {     background-image: url("../img/logos/agency/alphaio.png"); }
+.company-logo.amazon {      background-image: url("../img/logos/product/amazon.png"); background-size: 40%; }
 .company-logo.apply {       background-image: url("../img/logos/agency/apply.png"); }
-.company-logo.arithmetic {  background-image: url("../img/logos/agency/arithmetic.png"); background-color: #EC9F8E;}
+.company-logo.arithmetic {  background-image: url("../img/logos/agency/arithmetic.png"); background-color: #EC9F8E; }
+.company-logo.aritzia {     background-image: url("../img/logos/product/aritzia.svg"); }
+.company-logo.asana {       background-image: url("../img/logos/product/asana.svg"); background-size: 40%; }
 .company-logo.assembly {    background-image: url("../img/logos/agency/assembly.png"); background-size: 50%; }
 .company-logo.axiom {       background-image: url("../img/logos/agency/axiom.png"); }
+.company-logo.battlefy {    background-image: url("../img/logos/product/battlefy.png"); background-color: #EB2B44; }
+.company-logo.bench {       background-image: url("../img/logos/product/bench.svg"); background-size: 80%; }
+.company-logo.brainstation {    background-image: url("../img/logos/product/brainstation.svg"); background-size: 70%; }
 .company-logo.burnkit {     background-image: url("../img/logos/agency/burnkit.svg"); }
 .company-logo.castlelab {   background-image: url("../img/logos/agency/castlelab.svg"); }
+.company-logo.clio {        background-image: url("../img/logos/product/clio.png"); }
+.company-logo.colony {      background-image: url("../img/logos/agency/colony.svg"); }
 .company-logo.cossette {    background-image: url("../img/logos/agency/cossette.png"); }
 .company-logo.digitalist {  background-image: url("../img/logos/agency/digitalist.png"); }
 .company-logo.domain7 {     background-image: url("../img/logos/agency/domain7.png"); }
 .company-logo.dossier {     background-image: url("../img/logos/agency/dossier.png"); }
 .company-logo.ecstatic {    background-image: url("../img/logos/agency/ecstatic.png"); }
+.company-logo.ea {          background-image: url("../img/logos/product/ea.png"); background-size: 50%; }
 .company-logo.engine {      background-image: url("../img/logos/agency/engine.png"); }
 .company-logo.fingerfood {  background-image: url("../img/logos/agency/fingerfood.png"); }
 .company-logo.freeagency {  background-image: url("../img/logos/agency/freeagency.png"); background-color: #555640; }
@@ -353,33 +362,51 @@ a:nth-child(7) {
 .company-logo.habanero {    background-image: url("../img/logos/agency/habanero.png"); }
 .company-logo.harmonesse {  background-image: url("../img/logos/agency/harmonesse.png"); background-size: 70%; }
 .company-logo.hooman {      background-image: url("../img/logos/agency/hooman.png"); background-size: 50%; }
+.company-logo.hootsuite {   background-image: url("../img/logos/product/hootsuite.svg"); background-size: 30%; background-color: #133259; }
 .company-logo.hulse {       background-image: url("../img/logos/agency/hulse.png"); background-size: 70%; }
 .company-logo.iamota {      background-image: url("../img/logos/agency/iamota.png"); }
+.company-logo.ibm {         background-image: url("../img/logos/product/ibm.svg"); background-size: 100%; background-color: #000; }
 .company-logo.rebel {       background-image: url("../img/logos/agency/rebel.png"); }
-.company-logo.input {       background-image: url("../img/logos/agency/input.png"); background-size: 30%; }
+.company-logo.input {       background-image: url("../img/logos/agency/input.png"); background-color: #FFD203; }
 .company-logo.invoke {      background-image: url("../img/logos/agency/invoke.png"); }
+.company-logo.jane {        background-image: url("../img/logos/product/jane.jpeg"); }
+.company-logo.kabam {       background-image: url("../img/logos/product/kabam.png"); background-size: 50%; background-color: #000; }
 .company-logo.konrad {      background-image: url("../img/logos/agency/konrad.png"); background-size: 70%; }
+.company-logo.later {       background-image: url("../img/logos/product/later.svg"); }
 .company-logo.loki {        background-image: url("../img/logos/agency/loki.png"); background-size: 50%; }
+.company-logo.lululemon {   background-image: url("../img/logos/product/lululemon.png"); background-size: 40%; }
 .company-logo.machobear {   background-image: url("../img/logos/agency/machobear.png"); background-size: 40%; }
 .company-logo.major {       background-image: url("../img/logos/agency/major.svg"); }
 .company-logo.massive {     background-image: url("../img/logos/agency/massive.svg"); background-size: 40%; }
 .company-logo.metalab {     background-image: url("../img/logos/agency/metalab.svg"); background-size: 40%; }
+.company-logo.microsoft {   background-image: url("../img/logos/product/microsoft.png"); background-size: 40%; }
+.company-logo.mogo {        background-image: url("../img/logos/product/mogo.svg"); }
 .company-logo.monograph {   background-image: url("../img/logos/agency/monograph.png"); background-size: 80%; }
 .company-logo.neon {        background-image: url("../img/logos/agency/neon.svg"); }
 .company-logo.ngx {         background-image: url("../img/logos/agency/ngx.png"); background-size: 45%; }
 .company-logo.noise {       background-image: url("../img/logos/agency/noise.png"); }
-.company-logo.onbox {       background-image: url("../img/logos/agency/onbox.png"); }
+.company-logo.onbox {       background-image: url("../img/logos/agency/onbox.svg"); }
 .company-logo.oxd {         background-image: url("../img/logos/agency/oxd.png"); }
+.company-logo.paybyphone {  background-image: url("../img/logos/product/paybyphone.jpeg"); background-size: 50%; background-color:#75C045; }
 .company-logo.pivot {       background-image: url("../img/logos/agency/p&p.png"); background-size: 50%; background-color: #443DFF; }
 .company-logo.pni {         background-image: url("../img/logos/agency/pnimedia.png"); background-color: #134369; }
 .company-logo.porch {       background-image: url("../img/logos/agency/porch.jpg"); background-color: #818285; }
 .company-logo.pound {       background-image: url("../img/logos/agency/pound.png"); }
+.company-logo.procurify {   background-image: url("../img/logos/product/procurify.jpeg"); background-size: 35%; }
 .company-logo.redbrick {    background-image: url("../img/logos/agency/redbrick.png"); }
-.company-logo.skyrocket {   background-image: url("../img/logos/agency/skyrocket.png"); background-size: 35%; }
+.company-logo.rise {        background-image: url("../img/logos/product/rise.svg"); }
+.company-logo.samsung {     background-image: url("../img/logos/product/samsung.jpeg"); background-color: #000; }
+.company-logo.sap {         background-image: url("../img/logos/product/sap.svg"); background-size: 50%; }
+.company-logo.shopify {     background-image: url("../img/logos/product/shopify.jpeg"); background-color: #FAF6EC; background-size: 50%; }
+.company-logo.skyrocket {   background-image: url("../img/logos/agency/skyrocket.jpeg"); background-size: 50%; background-color: #B81C39; }
+.company-logo.slack {       background-image: url("../img/logos/product/slack.svg"); }
 .company-logo.spatial {     background-image: url("../img/logos/agency/spatial.png"); }
 .company-logo.studiothink { background-image: url("../img/logos/agency/studiothink.png"); background-size: 70%; }
 .company-logo.subplot {     background-image: url("../img/logos/agency/subplot.svg"); background-color: #FF0087;}
 .company-logo.taxi {        background-image: url("../img/logos/agency/taxi.png"); }
+.company-logo.tealeaves {   background-image: url("../img/logos/product/tealeaves.jpg"); }
+.company-logo.telus {       background-image: url("../img/logos/product/telus.svg"); background-size: 80%; }
+.company-logo.ttt {         background-image: url("../img/logos/product/ttt.svg"); }
 .company-logo.panda {       background-image: url("../img/logos/agency/panda.png"); }
 .company-logo.thepartner {  background-image: url("../img/logos/agency/thepartner.png"); background-size: 70%; }
 .company-logo.theory {      background-image: url("../img/logos/agency/theory.svg"); background-color: #0250FF; }
@@ -389,6 +416,8 @@ a:nth-child(7) {
 .company-logo.unbounce {    background-image: url("../img/logos/agency/unbounce.svg"); background-size: 70%; }
 .company-logo.polite {      background-image: url("../img/logos/agency/polite.svg"); background-color: #FFC600; }
 .company-logo.victory {     background-image: url("../img/logos/agency/victory.gif"); background-size: 50%; background-color: #000; }
+.company-logo.visier {      background-image: url("../img/logos/product/visier.svg"); }
 .company-logo.wallop {      background-image: url("../img/logos/agency/wallop.png"); background-size: 50%; }
 .company-logo.woke {        background-image: url("../img/logos/agency/woke.png"); }
 .company-logo.zak {         background-image: url("../img/logos/agency/zak.png"); background-size: 50%; }
+.company-logo.zenefits {    background-image: url("../img/logos/product/zenefits.svg"); }
