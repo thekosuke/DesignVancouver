@@ -351,6 +351,7 @@ a:nth-child(7) {
 .company-logo.cossette {    background-image: url("../img/logos/agency/cossette.png"); }
 .company-logo.digitalist {  background-image: url("../img/logos/agency/digitalist.png"); }
 .company-logo.domain7 {     background-image: url("../img/logos/agency/domain7.png"); }
+.company-logo.dooly {     background-image: url("../img/logos/product/dooly.svg"); }
 .company-logo.dossier {     background-image: url("../img/logos/agency/dossier.png"); }
 .company-logo.ecstatic {    background-image: url("../img/logos/agency/ecstatic.png"); }
 .company-logo.ea {          background-image: url("../img/logos/product/ea.png"); background-size: 50%; }
@@ -393,6 +394,7 @@ a:nth-child(7) {
 .company-logo.porch {       background-image: url("../img/logos/agency/porch.jpg"); background-color: #818285; }
 .company-logo.pound {       background-image: url("../img/logos/agency/pound.png"); }
 .company-logo.procurify {   background-image: url("../img/logos/product/procurify.jpeg"); background-size: 35%; }
+.company-logo.ready {       background-image: url("../img/logos/product/ready.svg"); background-size: 50%; }
 .company-logo.redbrick {    background-image: url("../img/logos/agency/redbrick.png"); }
 .company-logo.rise {        background-image: url("../img/logos/product/rise.svg"); }
 .company-logo.samsung {     background-image: url("../img/logos/product/samsung.jpeg"); background-color: #000; }
