@@ -376,6 +376,7 @@ input[type="radio"] {
 .company-logo.kabam {         background-image: url("../img/logos/product/kabam.png"); background-size: 50%; background-color: #000; }
 .company-logo.konrad {        background-image: url("../img/logos/agency/konrad.png"); background-size: 70%; }
 .company-logo.later {         background-image: url("../img/logos/product/later.svg"); }
+.company-logo.letterbox {     background-image: url("../img/logos/agency/letterbox.svg"); }
 .company-logo.loki {          background-image: url("../img/logos/agency/loki.png"); background-size: 50%; }
 .company-logo.lululemon {     background-image: url("../img/logos/product/lululemon.png"); background-size: 40%; }
 .company-logo.machobear {     background-image: url("../img/logos/agency/machobear.png"); background-size: 40%; }
@@ -402,6 +403,7 @@ input[type="radio"] {
 .company-logo.samsung {       background-image: url("../img/logos/product/samsung.jpeg"); background-color: #000; }
 .company-logo.sap {           background-image: url("../img/logos/product/sap.svg"); background-size: 50%; }
 .company-logo.shopify {       background-image: url("../img/logos/product/shopify.jpeg"); background-color: #FAF6EC; background-size: 50%; }
+.company-logo.signals {       background-image: url("../img/logos/agency/signals.svg"); }
 .company-logo.skyrocket {     background-image: url("../img/logos/agency/skyrocket.jpeg"); background-size: 50%; background-color: #B81C39; }
 .company-logo.slack {         background-image: url("../img/logos/product/slack.svg"); }
 .company-logo.spatial {       background-image: url("../img/logos/agency/spatial.png"); }
@@ -417,6 +419,7 @@ input[type="radio"] {
 .company-logo.theory {        background-image: url("../img/logos/agency/theory.svg"); background-color: #0250FF; }
 .company-logo.thrive {        background-image: url("../img/logos/agency/thrive.png"); background-color: #311C3B; }
 .company-logo.thompson {      background-image: url("../img/logos/agency/thompson.svg"); background-size: 70%; }
+.company-logo.toolbox {       background-image: url("../img/logos/agency/toolbox.svg"); background-size: 30%; }
 .company-logo.trulioo {       background-image: url("../img/logos/product/trulioo.svg") }
 .company-logo.turtle {        background-image: url("../img/logos/agency/turtle.png"); background-color: #485DE1;}
 .company-logo.unbounce {      background-image: url("../img/logos/agency/unbounce.svg"); background-size: 70%; }
