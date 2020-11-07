@@ -335,6 +335,7 @@ input[type="radio"] {
 .company-logo.apply {         background-image: url("../img/logos/agency/apply.png"); }
 .company-logo.arithmetic {    background-image: url("../img/logos/agency/arithmetic.png"); background-color: #EC9F8E; }
 .company-logo.aritzia {       background-image: url("../img/logos/product/aritzia.svg"); }
+.company-logo.article {       background-image: url("../img/logos/product/article.svg"); }
 .company-logo.asana {         background-image: url("../img/logos/product/asana.svg"); background-size: 40%; }
 .company-logo.assembly {      background-image: url("../img/logos/agency/assembly.png"); background-size: 50%; }
 .company-logo.axiom {         background-image: url("../img/logos/agency/axiom.png"); }
@@ -344,6 +345,7 @@ input[type="radio"] {
 .company-logo.burnkit {       background-image: url("../img/logos/agency/burnkit.svg"); }
 .company-logo.castlelab {     background-image: url("../img/logos/agency/castlelab.svg"); }
 .company-logo.ceridian {      background-image: url("../img/logos/product/ceridian.jpeg"); background-size: 50%; background-color: #0B1A3B; }
+.company-logo.clearly {       background-image: url("../img/logos/product/clearly.svg"); }
 .company-logo.clio {          background-image: url("../img/logos/product/clio.png"); }
 .company-logo.cmd {           background-image: url("../img/logos/product/cmd.png"); background-size: 40%; background-color: #6862C0;}
 .company-logo.colony {        background-image: url("../img/logos/agency/colony.svg"); }
