@@ -355,7 +355,7 @@ input[type="radio"] {
 .company-logo.ecstatic {      background-image: url("../img/logos/agency/ecstatic.png"); }
 .company-logo.ea {            background-image: url("../img/logos/product/ea.png"); background-size: 50%; }
 .company-logo.engine {        background-image: url("../img/logos/agency/engine.png"); }
-.company-logo.etho {        background-image: url("../img/logos/agency/etho.png"); }
+.company-logo.etho {          background-image: url("../img/logos/agency/etho.svg"); background-size: 50%; background-color: #000; }
 .company-logo.expa {          background-image: url("../img/logos/product/expa.svg"); background-size: 50%; background-color: #23252A;}
 .company-logo.fantuan {       background-image: url("../img/logos/product/fantuan.png"); background-size: 50%; background-color: #18C2C2;}
 .company-logo.fingerfood {    background-image: url("../img/logos/agency/fingerfood.png"); }
