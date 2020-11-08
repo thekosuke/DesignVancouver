@@ -429,6 +429,6 @@ input[type="radio"] {
 .company-logo.victory {       background-image: url("../img/logos/agency/victory.gif"); background-size: 50%; background-color: #000; }
 .company-logo.visier {        background-image: url("../img/logos/product/visier.svg"); }
 .company-logo.wallop {        background-image: url("../img/logos/agency/wallop.png"); background-size: 50%; }
-.company-logo.woke {          background-image: url("../img/logos/agency/woke.png"); }
-.company-logo.zak {           background-image: url("../img/logos/agency/zak.png"); background-size: 50%; }
+.company-logo.woke {          background-image: url("../img/logos/agency/woke.png"); background-color: #FFF; }
+.company-logo.zak {           background-image: url("../img/logos/agency/zak.png"); background-size: 40%; }
 .company-logo.zenefits {      background-image: url("../img/logos/product/zenefits.svg"); }
