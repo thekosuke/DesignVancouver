@@ -413,7 +413,7 @@ input[type="radio"] {
 .company-logo.studiothink {   background-image: url("../img/logos/agency/studiothink.png"); background-size: 70%; }
 .company-logo.subplot {       background-image: url("../img/logos/agency/subplot.svg"); background-color: #FF0087;}
 .company-logo.taxi {          background-image: url("../img/logos/agency/taxi.png"); }
-.company-logo.tealeaves {     background-image: url("../img/logos/product/tealeaves.jpg"); }
+.company-logo.tealeaves {     background-image: url("../img/logos/product/tealeaves.jpg"); background-color: #FFF; }
 .company-logo.telus {         background-image: url("../img/logos/product/telus.svg"); background-size: 80%; }
 .company-logo.ttt {           background-image: url("../img/logos/product/ttt.svg"); }
 .company-logo.panda {         background-image: url("../img/logos/agency/panda.png"); }
