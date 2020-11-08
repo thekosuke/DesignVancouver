@@ -320,7 +320,7 @@ input[type="radio"] {
   COMPANY LOGO
 ////////////////////////////////////////////////////////////////*/
 .company-logo {
-  background-color: #FCFCFC;
+  background-color: #FFF;
   background-repeat: no-repeat;
   background-position: center;
 }
@@ -413,7 +413,7 @@ input[type="radio"] {
 .company-logo.studiothink {   background-image: url("../img/logos/agency/studiothink.png"); background-size: 70%; }
 .company-logo.subplot {       background-image: url("../img/logos/agency/subplot.svg"); background-color: #FF0087;}
 .company-logo.taxi {          background-image: url("../img/logos/agency/taxi.png"); }
-.company-logo.tealeaves {     background-image: url("../img/logos/product/tealeaves.jpg"); background-color: #FFF; }
+.company-logo.tealeaves {     background-image: url("../img/logos/product/tealeaves.jpg"); }
 .company-logo.telus {         background-image: url("../img/logos/product/telus.svg"); background-size: 80%; }
 .company-logo.ttt {           background-image: url("../img/logos/product/ttt.svg"); }
 .company-logo.panda {         background-image: url("../img/logos/agency/panda.png"); }
@@ -429,6 +429,6 @@ input[type="radio"] {
 .company-logo.victory {       background-image: url("../img/logos/agency/victory.gif"); background-size: 50%; background-color: #000; }
 .company-logo.visier {        background-image: url("../img/logos/product/visier.svg"); }
 .company-logo.wallop {        background-image: url("../img/logos/agency/wallop.png"); background-size: 50%; }
-.company-logo.woke {          background-image: url("../img/logos/agency/woke.png"); background-color: #FFF; }
+.company-logo.woke {          background-image: url("../img/logos/agency/woke.png");}
 .company-logo.zak {           background-image: url("../img/logos/agency/zak.png"); background-size: 40%; }
 .company-logo.zenefits {      background-image: url("../img/logos/product/zenefits.svg"); }
