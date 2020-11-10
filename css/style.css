@@ -364,6 +364,7 @@ input[type="radio"] {
 .company-logo.freeagency {    background-image: url("../img/logos/agency/freeagency.png"); background-color: #555640; }
 .company-logo.freshworks {    background-image: url("../img/logos/agency/freshworks.png"); background-size: 70%; }
 .company-logo.glasfurd {      background-image: url("../img/logos/agency/g&w.png"); background-size: 70%; }
+.company-logo.greenstone {    background-image: url("../img/logos/agency/greenstone.png"); background-size: 50%; background-color: #005450; }
 .company-logo.habanero {      background-image: url("../img/logos/agency/habanero.png"); }
 .company-logo.harmonesse {    background-image: url("../img/logos/agency/harmonesse.png"); background-size: 70%; }
 .company-logo.hooman {        background-image: url("../img/logos/agency/hooman.png"); background-size: 50%; }
@@ -381,6 +382,7 @@ input[type="radio"] {
 .company-logo.letterbox {     background-image: url("../img/logos/agency/letterbox.svg"); }
 .company-logo.loki {          background-image: url("../img/logos/agency/loki.png"); background-size: 50%; }
 .company-logo.lululemon {     background-image: url("../img/logos/product/lululemon.png"); background-size: 40%; }
+.company-logo.macro {         background-image: url("../img/logos/product/macro.svg"); }
 .company-logo.machobear {     background-image: url("../img/logos/agency/machobear.png"); background-size: 40%; }
 .company-logo.major {         background-image: url("../img/logos/agency/major.svg"); }
 .company-logo.massive {       background-image: url("../img/logos/agency/massive.svg"); background-size: 40%; }
