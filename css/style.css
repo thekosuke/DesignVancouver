@@ -390,6 +390,7 @@ input[type="radio"] {
 .company-logo.microsoft {     background-image: url("../img/logos/product/microsoft.png"); background-size: 40%; }
 .company-logo.mogo {          background-image: url("../img/logos/product/mogo.svg"); }
 .company-logo.monograph {     background-image: url("../img/logos/agency/monograph.png"); background-size: 80%; }
+.company-logo.myplanet {      background-image: url("../img/logos/agency/myplanet.svg"); }
 .company-logo.neon {          background-image: url("../img/logos/agency/neon.svg"); }
 .company-logo.ngx {           background-image: url("../img/logos/agency/ngx.png"); background-size: 45%; }
 .company-logo.noise {         background-image: url("../img/logos/agency/noise.jpeg"); }
