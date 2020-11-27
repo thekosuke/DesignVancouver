@@ -231,7 +231,7 @@
 		border-radius: 1.5em;
 	}
 
-	.company-logo { height: 14em; }
+	.company-logo { height: 16em; }
 }
 
 @media all and (min-width: 1440px) {
