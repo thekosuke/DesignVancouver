@@ -343,6 +343,7 @@ input[type="radio"] {
 .company-logo.bench {         background-image: url("../img/logos/product/bench.svg"); background-size: 80%; }
 .company-logo.brainstation {  background-image: url("../img/logos/product/brainstation.svg"); background-size: 70%; }
 .company-logo.burnkit {       background-image: url("../img/logos/agency/burnkit.svg"); }
+.company-logo.carecru {       background-image: url("../img/logos/product/carecru.png"); background-size: 40%; background-color: #FF705A; }
 .company-logo.castlelab {     background-image: url("../img/logos/agency/castlelab.svg"); }
 .company-logo.ceridian {      background-image: url("../img/logos/product/ceridian.jpeg"); background-size: 50%; background-color: #0B1A3B; }
 .company-logo.clearly {       background-image: url("../img/logos/product/clearly.svg"); }
@@ -392,6 +393,7 @@ input[type="radio"] {
 .company-logo.monograph {     background-image: url("../img/logos/agency/monograph.png"); background-size: 80%; }
 .company-logo.myplanet {      background-image: url("../img/logos/agency/myplanet.svg"); }
 .company-logo.neon {          background-image: url("../img/logos/agency/neon.svg"); }
+.company-logo.newnew {        background-image: url("../img/logos/agency/newnew.jpeg"); }
 .company-logo.ngx {           background-image: url("../img/logos/agency/ngx.png"); background-size: 45%; }
 .company-logo.noise {         background-image: url("../img/logos/agency/noise.jpeg"); }
 .company-logo.onbox {         background-image: url("../img/logos/agency/onbox.svg"); }
@@ -431,6 +433,7 @@ input[type="radio"] {
 .company-logo.polite {        background-image: url("../img/logos/agency/polite.svg"); background-color: #FFC600; }
 .company-logo.victory {       background-image: url("../img/logos/agency/victory.gif"); background-size: 50%; background-color: #000; }
 .company-logo.visier {        background-image: url("../img/logos/product/visier.svg"); }
+.company-logo.vopay {         background-image: url("../img/logos/product/vopay.svg"); }
 .company-logo.wallop {        background-image: url("../img/logos/agency/wallop.png"); background-size: 50%; }
 .company-logo.woke {          background-image: url("../img/logos/agency/woke.png");}
 .company-logo.zak {           background-image: url("../img/logos/agency/zak.png"); background-size: 40%; }
